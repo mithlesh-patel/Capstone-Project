@@ -1,5 +1,9 @@
 # Capstone-Project
 
+My medium blog with more details can be accessed using below link
+
+https://medium.com/@mithleshpatel/udacity-data-scientist-nanodegree-capstone-project-applying-unsupervised-and-supervised-learning-33c69dddf661?source=your_stories_page---------------------------
+
 This project is to analyse Arvato’s dataset provided by Udacity during the Data-science Nano degree program. 
 
 There are two datasets with information about customers from a mail order company and similar information about the general population.
